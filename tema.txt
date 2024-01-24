@@ -1,0 +1,9 @@
+O tema utilizado foi o Business. Este tema é projetado para empresas de todos os tamanhos e inclui um layout profissional e responsivo. O tema "Business" é uma boa escolha para empresas que desejam criar um site que seja atraente e fácil de usar.
+
+Layout: O template "Business" tem um layout de página inicial profissional com um cabeçalho, um rodapé e uma área de conteúdo principal. O cabeçalho inclui um logotipo, um menu e um botão de chamada para ação. O rodapé inclui informações de contato e links para outras páginas do site. A área de conteúdo principal é onde os usuários podem exibir informações sobre sua empresa, produtos ou serviços.
+
+Estilo: O template "Business" tem um estilo profissional e moderno. Os elementos do template são bem organizados e fáceis de navegar.
+
+Responsividade: O template "Business" é responsivo, o que significa que ele se adapta a diferentes tamanhos de tela, incluindo dispositivos móveis e desktop.
+
+Personalização: O template "Business" é personalizável. Os usuários podem alterar as cores, fontes e outros elementos do template para criar um site único.
